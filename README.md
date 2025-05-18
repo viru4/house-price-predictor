@@ -22,3 +22,5 @@ A machine learning app to predict house prices using features like area, locatio
 pip install -r requirements.txt
 python model/train_model.py
 streamlit run app.py
+## link of website
+https://house-price-predictor-4.streamlit.app/
